@@ -1,5 +1,5 @@
 # mouseEvent-move
-* Bir kullanıcı ekranında mouse imlecinin konum bilgilerini gösteren proje.
+* Bir kullanıcı ekranında mouse imlecinin konum bilgilerini gösteren, mouse'a tıklandığında konum bilgilerini sıfırlayan proje.
 
 # PARAMETRELER ARASI FARKLAR
 
